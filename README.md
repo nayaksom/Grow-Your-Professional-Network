@@ -2,6 +2,7 @@
 Grow Your Professional Network - Know the people you need to connect to grow your network and unlock sales opportunities.
 
 With this app, you can easily find out who are the 1st degree connections who can connect you to more people. It helps in reaching out target customers through 1st degree connections.
+
 Developed to completely automate the lengthy manual sales outreach process.
 
 *Needs LinkedIn Sales Navigator
