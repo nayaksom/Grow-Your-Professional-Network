@@ -1,0 +1,19 @@
+{
+  "name": "Grow Your Professional Network",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Grow Your Professional Network - Know the people you need to connect to grow your network and unlock sales opportunities.",
+  "icons": { "128": "icon.png" },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Connection Scrape"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
